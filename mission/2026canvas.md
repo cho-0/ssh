@@ -1,3 +1,11 @@
+# 2026년 Canvas 데이터 유출 사건 분석
+
+개인 정리 & ssh 제출용
+
+깃허브.io https://cho-0.github.io/security/incident-analysis/2026/05/17/canvas-lms-hacking.html
+티스토리 링크: https://aellel-lae.tistory.com/15
+
+
 ## 1\. 사건 개요
  
 ### 2026년 4월 말~5월 초
